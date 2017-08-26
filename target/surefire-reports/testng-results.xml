@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="23" started-at="2017-08-26T15:17:18Z" finished-at="2017-08-26T15:17:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="23" started-at="2017-08-26T15:17:18Z" finished-at="2017-08-26T15:17:18Z">
+      <class name="com.program.PrintNumberToWordTest">
+        <test-method status="PASS" signature="testNumber()[pri:0, instance:com.program.PrintNumberToWordTest@2c8d66b2]" name="testNumber" duration-ms="11" started-at="2017-08-26T20:47:18Z" finished-at="2017-08-26T20:47:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNumber -->
+      </class> <!-- com.program.PrintNumberToWordTest -->
+      <class name="com.program.PrintSumDigitTest">
+        <test-method status="PASS" signature="testSumDigit()[pri:0, instance:com.program.PrintSumDigitTest@48140564]" name="testSumDigit" duration-ms="0" started-at="2017-08-26T20:47:18Z" finished-at="2017-08-26T20:47:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSumDigit -->
+      </class> <!-- com.program.PrintSumDigitTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
